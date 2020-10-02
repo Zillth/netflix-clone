@@ -1,0 +1,244 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "image": "https://occ-0-2235-116.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABaaLQeInFZCU4TvFaBKK19xt05wqmLQMcu3H_Cr0--hiv6LBKFgGwoxFSAjx03vFYLqnayMPQYlV6WGSqcZTKnTtIJz9.png?r=c13",
+            "name": "User 1",
+            "watchedMovies": [],
+            "myList": []
+        },
+        {
+            "id": 2,
+            "image": "https://occ-0-2235-116.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABT9hLeiJJZ_6sDW9R9SmokYJelp95EDTQLxhyybT7lJDLHLxCE2FiWalbJLxUoBf_9NQhOfjxw52806uTsPpA0k14lDu.png?r=f79",
+            "name": "User 2",
+            "watchedMovies": [],
+            "myList": []
+        },
+        {
+            "id": 3,
+            "image": "https://occ-0-2235-116.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABXzsLeXLYRgDrrvM99HCFtTGST5PVo50MVlNTlINCoCsHtph6L9OjNyqpd6tqydjEN-_HIR0nvgEnka3H0eKOroCi8WJ.png?r=318",
+            "name": "User 3",
+            "watchedMovies": [],
+            "myList": []
+        }
+    ],
+    "elementsIcons": [
+        {
+            "image": "https://occ-0-2235-116.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAAFMKu2OoV9YK1oIQKleukDD7NCSHhtan2Jd8uRe-D9zBqLkXpJs1aE5E410jRERZhwyVwcX-xCFE0fOCJbdOZgjuyAQ.png?r=abe"
+        },
+        {
+            "image": "https://occ-0-2235-116.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAAFIOZnQAJxRPXQYjHXk-h2Dh5CIUABbSRxBAiEb933oDNTh2j_Kutl10x0ecZCS4KxyQRgMtTA8gVx7IYr9uytI-xxw.png?r=f08"
+        },
+        {
+            "image": "https://occ-0-2235-116.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAAFJpFQwhi-7NgqxzLZ9OR6tPcu98acO2XFNG6BGkbNlT7HbSjYSbkopaTKnKdxlERUyDmJmkL6zdatC1fx0aWDos7ZA.png?r=c71"
+        },
+        {
+            "image": "https://occ-0-2235-116.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAAFA-JdmfXfrFtSb_lIY2uM-Prt9JL04Q7UI24MmLc_p6ypVKxA8rGLrtzmllVnOmE9EKt2AQsP39WtGetQmOSy7w9UQ.png?r=9fe"
+        },
+        {
+            "image": "https://occ-0-2235-116.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAAFKKQRAOs1bEkBNlHNJUv09BYuFxO8hiPdZCIaWLDST-WvF8A-PI2zd-wa9256XIPmZjyRegKhV3saJAJOLoh-gK4lQ.png?r=abf"
+        },
+        {
+            "image": "https://occ-0-2235-116.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAAFLiPe0hlNI-4Q-KhAIjyc8VHV5FflyJQNan6iODX2jztFoEBe2lmM0R7CwL73Y7doZjhHc4fiQWAGDsdDwtGB_B7PA.png?r=06d"
+        },
+        {
+            "image": "https://occ-0-2235-116.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAAFGSj-6Hfg8-Af8MUsMg2C0Ytova1QynTOWfVkxfJegr7gHzyMlC0A2dzurh63a5K5XbLyVrLNHQY5_BynG0UxqQWmw.png?r=fdd"
+        },
+        {
+            "image": "https://occ-0-2235-116.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAAFBk9wdbmRGfmPMtK3ig4zDtK8MVTCEoxoU_2_4IyKEu0ldRPNgZJL_nBDJq4CB3qILT6jREQwJ3s-j89_A96F6ueIA.png?r=88c"
+        },
+        {
+            "image": "https://occ-0-2235-116.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAAFGP_OAvRefacm8iV4coFgE7Pns6TOridQeHSuj45kO0_EZtXB6dd9BKbeoqEmFeB-Fic8B2kD5lzpcbUgztIkCZjjg.png?r=b97"
+        },
+        {
+            "image": "https://occ-0-2235-116.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAAFAR6OWAbAvcL_8bfhV1awbFLJvyVnbRfqVpTY50ysyfKHPFHeZmSPQ1xOYFQma8G9OdZMnD6RPI1H9sx73NcJUWhBQ.png?r=fcc"
+        },
+        {
+            "image": "https://occ-0-2235-116.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAAFGSueo4V0OvZEiboUlEPGaqV9AJcQKxqB53U5JuQcN4FntQo9eRJrC_KazHo2bVbPtZYy_NjuFMVHUllwLcfRGxUfg.png?r=f71"
+        },
+        {
+            "image": "https://occ-0-2235-116.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAAFGeT-8kpTM1wmN72NQ5hsokARXnmtX8lDPCTzEvAA-dS2wLpEJO2SeYwHuf9SlH9crF9KCVNAgsimebyUp9B8qTwUg.png?r=f80"
+        },
+        {
+            "image": "https://occ-0-2235-116.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAAFJEwjyRPHh82xsHWjg7_snFujouP1Qf0hSeayTP98rxPJQKPInwcAm-72OoPsjg_xj3Y4HkM0hJCtJe2qqTWaPBUJA.png?r=a41"
+        },
+        {
+            "image": "https://occ-0-2235-116.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAAFMWZ9RtApd4xagLM5x7zM_LilSpUcS40Js3ZS8QOczWJhaeNTQ98SCpWnXY6rwTDPNITLBfKUq9phhvGuudH9oix3w.png?r=a56"
+        },
+        {
+            "image": "https://occ-0-2235-116.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAAFD0MzYz-ROoFPYkYtWu-FzpAvfJvg7gBEFKB-VzWAfPfWkOCADNelHGe9ZqlC39lv74aENd8-5O_xokdKVEimvWqvQ.png?r=f2f"
+        }
+    ],
+    "movies": {
+        "Trending Now": [
+            {
+                "id": 11,
+                "title": "Project Power",
+                "image": "https://occ-0-2709-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABY9vaZjTgbQu2Kk9E0lQzoQcplU9T-mTI1n4_8-LSMpQWxjoevRAXjFI07MUrRMHbtNAt-dVQ8xawJ3dldOuXkPMrcKSw_F8XOmaFtiqf1gYXHOHkq-M2CEO4g8J.jpg?r=b9d"
+            },
+            {
+                "id": 12,
+                "title": "The Lord of the Rings: The Fellowship of the Ring",
+                "image": "https://occ-0-2709-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABVKOHEHG3qB0CouTPPkTFrIBGg9_89Z23D7W12oGOeOxD7T-U0Bx-16aRCCKoCTzkbOCzmeLhsyfGtQ_4PY-79K7lSM.webp?r=595"
+            },
+            {
+                "id": 13,
+                "title": "Howl’s Moving Castle",
+                "image": "https://occ-0-2709-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQNJEj1D3gtvG7sAVSRiJdwmFTYyk1Rpc7wwKqmNoW_Rhvm9cQBF2kaJL3fMfUAoS_N7xgehC2KQSRVUaerC5xjQAG0.webp?r=665"
+            },
+            {
+                "id": 14,
+                "title": "King Arthur: Legend of the Sword",
+                "image": "https://occ-0-2709-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABYHZg3n0SbfM2-LAPy-6q5IlJcbUw7y6okXcumAEm7z97d7JYRdkf2Qow7judHpwIQcGcAqbJeDtj6gFamBehSKz1js.webp?r=cd6"
+            },
+            {
+                "id": 15,
+                "title": "The Lovely Bones",
+                "image": "https://occ-0-2709-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXEaNh8EBUzAF11mlFUDUpAmJZPqNFoXqk89ifcndjhPoT5vM8bgG3ZCb3xCXbxgjW7p0ZkFPN56D1pQyzrydWCOpSo.webp?r=09e"
+            },
+            {
+                "id": 16,
+                "title": "The Mummy",
+                "image": "https://occ-0-2709-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABa806xNLBhI7cCsDg8T80pKvLR3_jDe9NRDHaViZdpUgKJkIAor-qYBtim4rma8g713ktM8AllxSZpaIQfk9fwlZEk4.webp?r=771"
+            },
+            {
+                "id": 17,
+                "title": "Forrest Gump",
+                "image": "https://occ-0-2709-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdfCIeEDCr5_3KuRNfRJkKPnDTjY_irGUC3ZqLELCeqWdA8IyNU4S0e5bDBsGZ8JxSV65A7b8p7iKc-1jvJPVnAe4KA.webp?r=808"
+            },
+            {
+                "id": 18,
+                "title": "Harry Potter and the Order of the Phoenix",
+                "image": "https://occ-0-2709-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQFe6ok74RUQ4f6HpaGOIA0R5ILS0OG8RWeKlbm7vg0tIWdPRCN_fq1ULGUzHE2NkMEhyKUb4r---4dRdrE9BY6S2KQ.webp?r=819"
+            },
+            {
+                "id": 19,
+                "title": "Suicide Squad",
+                "image": "https://occ-0-2709-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdIOFawAPewvl2VDHXiyx5xbqvPb9WJ5K2DFyWX5ui0_T1xJi349hyaN2s3Hmv5P9qd56AsIIHPPUf9GWJUd53prvrw.webp?r=960"
+            },
+            {
+                "id": 110,
+                "title": "Constantine",
+                "image": "https://occ-0-2709-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABYQ53pTZRE0_z-UvXJfmIeuHZlpaj1aPNx0QAZt8A2XXq__a8sUTvl-LGz-zTnG7GElJEVjnmMwC-nKgSwrohq-rocw.webp?r=8e6"
+            }
+        ],
+        "Comedies": [
+            {
+                "id": 21,
+                "title": "Parasite",
+                "image": "https://occ-0-2709-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZkDTjD-BgsfQuNkQGEN3SS95TP4YXhMG7wE6W-nR5ancOri66qxmpgLXiGV47M4ZXrvpNvT5UGkrsayyOF2tfLfIfw.webp?r=216"
+            },
+            {
+                "id": 22,
+                "title": "Love, Guaranteed",
+                "image": "https://occ-0-2709-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABfjqbX4TyFI1eX1YkWnROZmwEvYvunSCNlKbZLImOoK5rymF_KDvRJFssu-UHnQQkuSDaK-BZdYUU8A01PV4mCoUVTDzP9gyj25H98oni62Lbi8KE3ipltnE0jpM.jpg?r=975"
+            },
+            {
+                "id": 23,
+                "title": "The Kissing Booth",
+                "image": "https://occ-0-2709-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABRiaZzJBfBcfljFd2AF6rhoXHerRHlW-ISN2I7cYU9c5kQoKbLLcAuz5ChRYhMICDmJ-bLpG5gZRKwrfgVkr-AX7O1eMN9LcaMV1U6cBa-VZHhUcuLmUP1JxnbDA.jpg?r=594"
+            },
+            {
+                "id": 24,
+                "title": "Baby Driver",
+                "image": "https://occ-0-2709-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABf57EfafDcNIRQOLUA3ygJetGUugBRah_ZpjFJmD160gIM8HPf48iTVqD4vEPInTIzY_4K1d0TiA_ykB-5wTpTYYvm4.webp?r=994"
+            },
+            {
+                "id": 25,
+                "title": "Men in Black",
+                "image": "https://occ-0-2709-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABaa1iT2NHhP5FUSA7r0hQlAkQ29AH0GorRQpblv1ax0dENIFOcHNRZf1rZFi_4O1JsS4eK12xfL41SapwOaDaah0Src.webp?r=6a6"
+            },
+            {
+                "id": 26,
+                "title": "The Stepford Wives",
+                "image": "https://occ-0-2709-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUeU1izwa34DykvcBJ_AwWB5LxvlFwOJ5kIOGsS_zco6Rgh9-QiBNVDndNAgYUtaQ7ZJ318EdeajyP28kFDyjcz6DTU.webp?r=177"
+            },
+            {
+                "id": 27,
+                "title": "Leap Year",
+                "image": "https://occ-0-2709-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABeYW7rNpXLBYcvo8b11L9FlTQKIFzIrUQuhdnM5hMDNaBTktuqi6sBtCZA0PTebdBbNn8peAoq3qEO0DqaGYB54_PEs.webp?r=be5"
+            },
+            {
+                "title": "Feel the Beat",
+                "image": "https://occ-0-2709-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABS2xJqxmipDolDDl9ABI5kkkzqKVAPRawmzpEEEeWgPmote7qna4M1TFlHg0FNhe51BpjLrgGfb00onmf9baiF5oY7_0AbUE27QaDYHdRhOHl36WBVCMWJTJUmOe.jpg?r=f07"
+            },
+            {
+                "id": 28,
+                "title": "The Holiday",
+                "image": "https://occ-0-2709-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABReVAMP_NkuuFCAwqw3m7Ajy1kLp4Uc8Bx6hgKUAaHu41KLyFhMuVSQm4bCQ5U8j3R1pTXZIEEOTwFpvIsvlgCfFY_M.webp?r=2be"
+            },
+            {
+                "id": 29,
+                "title": "Work It",
+                "image": "https://occ-0-2709-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABRIOXNrM9VRbAE_Y4XAD-5xlDoS3drm7me0_bB1iZx74UjSsDtV1QASYVUcYIgvNgsEBIB3ykXxG-psFL_F4BB4KgoLHGTENc9PWHFRJ3l84SFp_hBiTojepr61d.jpg?r=c6b"
+            },
+            {
+                "id": 210,
+                "title": "School of Rock",
+                "image": "https://occ-0-2709-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABaU78xaivuq5HUA9L9zmbQbNaRxzNMpzqQmGpDKXSOdfHyj70XKFH5PJUgIxCRYXyjNeLjSulsvSotEwz7OdxMgSScE.webp?r=ecd"
+            }
+        ],
+        "Hallowen Favorites": [
+            {
+                "id": 31,
+                "title": "Sleepy Hollow",
+                "image": "https://occ-0-2709-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABf8WbtnfXl0_5ru8f079In8AAhry0Y0NdM8x0XDi6dXyleoqYx-ZJI3P9k3IhomkwmCntNSgVUD174Hamav-8Mu6hG0.webp?r=767"
+            },
+            {
+                "id": 32,
+                "title": "Interview with the Vampire",
+                "image": "https://occ-0-2709-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABVdIgSNWFCGsBQg-cXUazVE9b5-hpTIIJTuZNNkCiw4veX5n77nE4QNtty4Wz5r5TkXJrfp8EtRN-MNZe7X6HLA5gRA.webp?r=b09"
+            },
+            {
+                "id": 33,
+                "title": "Corpse Bride",
+                "image": "https://occ-0-2709-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQNns7nzeln0qVLkgjXzTIQN-VeGuynvYhuRzRrYJhRc8aNWGp8B6SQNR8C9X-fuaEhjhXlbFFKE4aSKBELdzmWby1s.webp?r=e1d"
+            },
+            {
+                "id": 34,
+                "title": "The Babysitter: Killer Queen",
+                "image": "https://occ-0-2709-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZC8drx6sV17dVg7PqUBvmTnm7wqvkNTagLPPbvjd3JzQA6Fl6rT_nTsBw2P0gN-VjIudpPQiHijRxJgxrwAaf-WQf813mHyyeMIrtvSpWSU_9KJhI0_L3oQHzba.jpg?r=5e9"
+            },
+            {
+                "id": 35,
+                "title": "Annabelle: Creation",
+                "image": "https://occ-0-2709-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABU3kkoUM-PyfPdjIUcwcLqg3SdLbJdcP0q3C_nL_lgO7Z7oXy61OWxbYylolt8KAk30JknZiDQLSe4Gd0XPXbhT1O4E.webp?r=a67"
+            },
+            {
+                "id": 36,
+                "title": "The Babysitter",
+                "image": "https://occ-0-2709-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABc35ZNZiiWziY_r5o1VXzh9dj7b8b-uNkMsgKop8WbAAjtzzPNWJfnl3utUlbQSXcCOv20O6XkGj-7RR9n6WwT0qhjIRMXfGQn2w2hjz_BejBtDuVyM81y_0GYB7.jpg?r=027"
+            },
+            {
+                "id": 37,
+                "title": "#Alive",
+                "image": "https://occ-0-2709-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABbOVIpm09SwSL2ozBAt0w6s2Cp1i55gYOJNBCv4rC_7wA7NtgjdGSwkNAKnqDk-qx2PVBo-p3gkP1HidTSnDxGdDVrZhHiHN1jL2QnLkKXt6oAabW0g4IMBgXsRs.jpg?r=400"
+            },
+            {
+                "id": 38,
+                "title": "Seven",
+                "image": "https://occ-0-2709-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQuVONR5s9OsSqMlEWZeU-gzLZos-lh2O6UHtLEWv2UA10T8p9YQnKh0pooGXitSjy9MZtUHUcNmmbepAdxhkg55SQ0.webp?r=629"
+            },
+            {
+                "id": 39,
+                "title": "La Leyenda de la Llorona",
+                "image": "https://occ-0-2709-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdVgc9HgE57XMviwuYOofvT4utsIfNaNURG56qoK81NaMaD_em1PdfbW-5Sx8x1BJOC8-6rQDc-sikVctNIXvPezRh0.webp?r=863"
+            },
+            {
+                "id": 310,
+                "title": "World War Z",
+                "image": "https://occ-0-2709-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUaf35e7Mufe4AJBdF5BVdlWAgJWiv49NQNS72lOYO0kchR1D5Ck-qVis--VmhtLZLmSFWLJ0UicsRr1sW-6xzUFMgs.webp?r=9b4"
+            },
+            {
+                "id": 311,
+                "title": "Hotel Transylvania",
+                "image": "https://occ-0-2709-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdgBe2BDbsi_SIYG_gLj-NSX_sC9yderMD4P4MKj-EEdG1zi5LW5VK-CTdBIOATMp1ftrdDtca3bt0hI_5IcTs2RjK0.webp?r=797"
+            },
+            {
+                "id": 312,
+                "title": "The Conjuring 2",
+                "image": "https://occ-0-2709-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUrU1nc6hVgSABQiNQ1MSm5srkaeEVAbUF4OJv-szaUXJaxsWYauGOjDaW0tNI6NtLOpcAaoBEIAsPfbb71AwGgMGHs.webp?r=c3e"
+            }
+        ]
+    }
+}

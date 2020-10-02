@@ -1,0 +1,48 @@
+.browse {
+    background-color: #141414;
+    max-width: 100vw;
+    height: 90vh;
+}
+
+.browse > p {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 3em;
+    text-align: center;
+    margin: 0 0 20px 0;
+    padding-top: 7%;
+}
+
+.browse__users {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.browse__admin {
+    text-align: center;
+    margin: 70px auto;
+    color: grey;
+}
+
+.browse__admin > span {
+    padding: .5em 1.5em;
+    border: 1px solid grey;
+    font-size: 1.2em;
+}
+
+.browse__admin > span:hover {
+    border: 1px solid white;
+    color: white;
+    cursor: pointer;
+}
+
+.admin__done {
+    color: black;
+    background-color: white;
+}
+
+.admin__done:hover {
+    color: white;
+    background-color: red;
+}

@@ -1,0 +1,120 @@
+.handleUser {
+    color: #ffffff;
+    background-color: #141414;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 200;
+}
+
+.handleUser__form {
+    margin: auto;
+    width: 36%;
+    margin-top: 8%;
+}
+
+@media only screen and (max-width: 768px) {
+    .handleUser__form {
+        margin-top: 50%;
+        width: 70%;
+    }
+}
+.handleUser__form > p {
+    font-size: 3em;
+    border-bottom: 1px solid rgb(77, 76, 76);
+    padding: 20px 0;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+
+.form {
+    display: flex;
+    border-bottom: 1px solid rgb(77, 76, 76);
+    padding-bottom: 25px;
+}
+
+.handleUser__form > .form > img {
+    width: 8vw;
+    min-width: 80px;
+    max-width: 180px;
+    border-radius: 3px;
+    margin: 20px 20px 0 0;
+}
+
+.handleUser__form > .form > .image__container > img {
+    width: 8vw;
+    min-width: 80px;
+    max-width: 180px;
+    border-radius: 3px;
+    margin: 20px 20px 0 0;
+}
+
+.image__container {
+    display: flex;
+    position: relative;
+    cursor: pointer;
+}
+
+.image__container > .icon {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    color: white;
+    background-color: black;
+    padding: 3px;
+    border-radius: 3px;
+}
+
+.handleUser__form > .form > input {
+    background-color: #666;
+    color: white;
+    border: none;
+    height: 17px;
+    margin: auto;
+    width: 25vw;
+    padding: 10px;
+}
+
+.button__container {
+    display: flex;
+    justify-content: center;
+    z-index: 500;
+}
+
+.button__continue {
+    margin: 20px 0;
+    padding: .5em 1.5em;
+    color: black;
+    background-color: white;
+    letter-spacing: 2px;
+    cursor: pointer;
+    font-size: .9em;
+    text-transform: uppercase;
+}
+
+.button__continue:hover {
+    color: white;
+    background-color: red;
+}
+
+.button__cancel {
+    margin: 20px 15px;
+    padding: .5em 1.5em;
+    color: rgb(95, 94, 94);
+    border: 1px solid rgb(95, 94, 94);
+    letter-spacing: 2px;
+    cursor: pointer;
+    font-size: .9em;
+    text-transform: uppercase;
+}
+
+.button__cancel:hover {
+    color: white;
+    border: 1px solid white;
+}
+
+::placeholder {
+    color: white;
+}

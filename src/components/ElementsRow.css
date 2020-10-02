@@ -1,0 +1,62 @@
+.row__container {
+    width: 100%;
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    height: 20vw;
+    margin-top: 12%;
+}
+
+.row__header {
+    margin: 0 10% 1.5vw;
+    font-size: 3.8vw;
+}
+
+.slider {
+    width: 88vw;
+    max-width: 1320px;
+    overflow: hidden;
+    margin: 0 auto;
+    position: relative;
+    touch-action: pan-y;
+    display: flex;
+}
+
+.sliderContent {
+    display: flex;
+    transition-duration: 1s;
+}
+
+
+.handle {
+    position: absolute;
+    z-index: 210;
+    font-size: 4em;
+    height: 100%;
+    padding: 10px;
+    background: linear-gradient(to left,#141414 0,rgba(20,20,20,.4) 100%);
+    transition: .5s;
+    cursor: pointer;
+}
+
+.handle:hover {
+    font-size: 5em;
+}
+
+.icon-choseImg {
+    margin-top: 110%;
+}
+
+.handlePrev {
+    left: 0;
+}
+
+.handleNext {
+    right: 0;
+}
+
+.row__container > .button__container {
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+}

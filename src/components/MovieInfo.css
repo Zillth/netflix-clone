@@ -1,0 +1,58 @@
+.movieInfo {
+    position: fixed;
+    top: 80px;
+    left: 35%;
+    right: 35%;
+    bottom: 200px;
+    background-color: #111111;
+    z-index: 600;
+    color: white;
+    border-radius: 7px;
+}
+
+.movieInfo__close {
+    position: absolute;
+    top: 10px;
+    right: 2%;
+    font-size: 1.5em;
+    z-index: 601;
+    cursor: pointer;
+}
+
+.movieInfo__image {
+    width: 90%;
+    margin: 20px auto;
+}
+
+.circle {
+    padding: 0 15px;
+    color: black;
+    margin: 0 15px;
+}
+.movieInfo__buttons {
+    display: flex;
+    justify-content: center;
+}
+.movieInfo__title {
+    display: flex;
+    justify-content: center;
+    font-size: 1.5em;
+}
+
+.movieInfo__title > p {
+    padding: 0 15px;
+}
+
+.movieInfo__image > img {
+    border-radius: 4px;
+}
+
+@media only screen and (max-width: 768px) {
+    .movieInfo {
+        position: fixed;
+        top: 80px;
+        left: 5%;
+        right: 5%;
+        bottom: 350px;
+    }
+}
